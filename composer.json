@@ -13,7 +13,7 @@
     ],
     "homepage": "http://yiiwheels.com/extension/ckeditor-widget",
     "license": "BSD-3-Clause",
-    "minimum-stability": "dev",
+    "minimum-stability": "RC",
     "prefer-stable": true,
     "authors": [
         {
