@@ -29,8 +29,10 @@
     },
     "require": {
         "yiisoft/yii2": "^2.0",
-        "ckeditor/ckeditor": "^4.20.1",
-        "sunhater/kcfinder": "*"
+        "ckeditor/ckeditor": "^4.20.1"
+    },
+    "suggest": {
+        "sunhater/kcfinder": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*",
